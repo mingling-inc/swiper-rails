@@ -42,11 +42,3 @@ For more information about Swiper's usage check (http://www.idangero.us/sliders/
 ## Customizing
 
 Run `rails g swiper`. It will copy Swiper's stylesheet to yours application and you will be able to customize styles.
-
-## Contributing
-
-1. Fork it
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create new Pull Request
